@@ -1,0 +1,14 @@
+/* MPRO Text Scramble — frontend styles */
+
+.mpro-char {
+  display: inline-block;
+}
+
+.mpro-char.mpro-glitch {
+  opacity: 0.45;
+}
+
+/* Prevent layout shift on buttons/links during animation */
+.mpro-scramble {
+  display: inline-block;
+}
