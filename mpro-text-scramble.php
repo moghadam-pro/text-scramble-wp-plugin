@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: MPRO Text Scramble
- * Plugin URI:  https://moghadam.pro
+ * Plugin URI:  https://moghadam.pro/mpro-plugins
  * Description: Text Scramble / Decode effect for any text, link or button. Works with Elementor via CSS class. Part of MPRO suite.
  * Version:     1.0.0
  * Author:      Sayid Moghadam
